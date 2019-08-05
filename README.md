@@ -9,7 +9,7 @@ HELP International is an international humanitarian NGO that is committed to fig
 - Screeplot
 - k-means
 - Plotting
-- Heirarchical Clustering
+- Hierarchical Clustering
 ## Details of files given
 - Clustering and PCA Assignment Meenu.ipynb : The python file showing coding and data analysis
 - Clustering and pca assignment 1.pdf : Presentation showing conclusion
